@@ -10,7 +10,9 @@
     Astou Lo
     Issa Lo
     Dethie Diouf
+    Fatou MBOW
     Mouhammad Sylla @mouha09
+    
 
 -------------------------
 \
