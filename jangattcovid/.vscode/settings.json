@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/mouhammadsylla/VirtualEnvironnement/venv3.7/bin/python",
+    "python.autoComplete.extraPaths": [
+        "../src/main/python/"
+    ],
+    "python.formatting.provider": "autopep8"
+}
