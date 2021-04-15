@@ -36,16 +36,51 @@ L'installation de l'application sur une machine locale se fera juste de par l'ex
 
 * Pillow
     * Ce module est utlisé pour l'ouverture des images lors de leur conversion en fichier texte
-* Pdf2Image
-    * Ce module est utilisé pour la conversion  des pdfs en image 
+* Twint
+    * Ce module est utilisé pour la recuperation des images des communiqués sur la page twitter du ministére
 * Pytesseract
     * Ce module est utilisé pour la conversion  des images en fichier texte  brut
 
+&nbsp;
+## Environnement de developpement
+---
 
 &nbsp;
 > En mode developpent faudra saisir la commande suivante pour pouvoir installer les dependance necessaires 
 
 `python3 packages.py`
+
+&nbsp;
+
+> Il faut aussi creer un environnement virtuel python avec la commande suivante
+
+`python3.7 -m ven [chemin/nom_environnement]`
+
+&nbsp;
+
+> Il faut aussi installer les librairies suivantes : fbs et PySide2
+
+`pip install fbs==0.8.4`
+&nbsp;
+
+`pip install PySide2==5.13.1`
+
+&nbsp;
+
+> Il faut aussi installer les librairies suivantes : fbs et PySide2
+
+`pip install fbs==0.8.4`
+&nbsp;
+
+`pip install PySide2==5.13.1`
+
+&nbsp;
+>Pour executer l'application faut taper la  commande suivante :
+
+`fbs run `
+
+
+
 
 
     
