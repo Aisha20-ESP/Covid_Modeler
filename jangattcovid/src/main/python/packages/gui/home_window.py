@@ -2,8 +2,15 @@
 from PySide2.QtWidgets import QMainWindow, QGraphicsDropShadowEffect
 
 from packages.ui_codes.home_window_ui import Ui_HomeWindow
+# from packages.gui.login import LoginWindow
+from packages.ui_codes.login_window_ui import Ui_LoginWindow
+
+import packages.gui as p
+
+from functools import partial
 
 from random import randrange
+
 
 class HomeWindow(QMainWindow):
     def __init__(self,ctx,username):
@@ -11,6 +18,7 @@ class HomeWindow(QMainWindow):
         
         self.ui = Ui_HomeWindow(ctx)
         self.username = username
+        self.ctx = ctx
         self.ui.setupUi(self)
         self.setWindowTitle("Accueil")
         
@@ -33,6 +41,7 @@ class HomeWindow(QMainWindow):
         self.nombre_cas = self.ui.label_nombre_cas
         self.nombre_gueris = self.ui.label_nombre_gueris
         self.nombre_deces = self.ui.label_nombre_deces
+        self.btn_logout = self.ui.btn_logout
         
     def modifyWigets(self):
         pass
@@ -45,6 +54,7 @@ class HomeWindow(QMainWindow):
     
     def setUpConnexion(self):
         self.btn_new_data.clicked.connect(self.initializeNewData)
+        self.btn_logout.clicked.connect(partial(self.logout, self.ctx))
     
     def initProfile(self):
         self.label_username.setText(self.username)
@@ -56,3 +66,15 @@ class HomeWindow(QMainWindow):
         self.nombre_gueris.setText(str(nombre_gueris))
         self.nombre_cas.setText(str(nombre_cas))
         self.nombre_deces.setText(str(nombre_deces))
+        self.ui.label_carte_senegal.clear()
+    
+    def logout(self,ctx):
+        self.mainWindow  = p.login.LoginWindow(ctx)
+        self.mainWindow.show()
+        self.close()
+        
+        
+    
+    
+        
+        

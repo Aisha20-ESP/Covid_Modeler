@@ -7,6 +7,8 @@ from packages.ui_codes.login_window_ui import Ui_LoginWindow
 from packages.gui.home_window import HomeWindow
 from functools import partial
 
+from  packages.apis.services.authentication import  checkUser
+
 
 class LoginWindow(QMainWindow):
     def __init__(self,ctx):
@@ -22,10 +24,19 @@ class LoginWindow(QMainWindow):
     def authentication(self,ctx):
         self.username = self.ui.te_username.toPlainText()
         self.mdp = self.ui.te_mdp.toPlainText()
-        # self.displayError()
-        self.home_window = HomeWindow(ctx,self.username)
-        self.home_window.show()
-        self.close()
+        
+        userInformations = checkUser(self.username, self.mdp)
+
+        if(userInformations != False):
+            
+            self.username = f"{userInformations[0]} {userInformations[1]}"
+            
+            self.home_window = HomeWindow(ctx,self.username)
+            self.home_window.show()
+            self.close()
+        else:
+            self.displayError()
+            authentication(self,ctx)
         
     def displayError(self):
         message = QMessageBox(self)

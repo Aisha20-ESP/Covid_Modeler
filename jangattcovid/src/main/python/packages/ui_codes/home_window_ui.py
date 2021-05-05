@@ -34,14 +34,14 @@ class Ui_HomeWindow(object):
         self.logo_label.setPixmap(QtGui.QPixmap(self.ctx.get_resource("assets/logo_small.png")))
         self.logo_label.setObjectName("logo_label")
         self.label = QtWidgets.QLabel(self.header_frame)
-        self.label.setGeometry(QtCore.QRect(1530, 41, 131, 20))
+        self.label.setGeometry(QtCore.QRect(1500, 41, 145, 20))
         self.label.setStyleSheet("QLabel{\n"
 "    color:white;\n"
 "}")
         self.label.setAlignment(QtCore.Qt.AlignRight|QtCore.Qt.AlignTrailing|QtCore.Qt.AlignVCenter)
         self.label.setObjectName("label")
         self.label_2 = QtWidgets.QLabel(self.header_frame)
-        self.label_2.setGeometry(QtCore.QRect(1555, 40, 21, 20))
+        self.label_2.setGeometry(QtCore.QRect(1480, 40, 21, 20))
         self.label_2.setText("")
         self.label_2.setPixmap(QtGui.QPixmap(self.ctx.get_resource("assets/user_icon.png")))
         self.label_2.setObjectName("label_2")
@@ -167,6 +167,35 @@ class Ui_HomeWindow(object):
         icon3.addPixmap(QtGui.QPixmap(self.ctx.get_resource("assets/icons/help_icon.png")), QtGui.QIcon.Mode.Normal, QtGui.QIcon.State.Off)
         self.btn_aide.setIcon(icon3)
         self.btn_aide.setObjectName("btn_aide")
+        
+        #Button Deconnexion
+        
+        self.btn_logout = QtWidgets.QPushButton(self.menu_frame)
+        self.btn_logout.setGeometry(QtCore.QRect(10, 310, 161, 31))
+        font = QtGui.QFont()
+        font.setFamily("Poppins")
+        font.setPointSize(14)
+        self.btn_logout.setFont(font)
+        self.btn_logout.setCursor(QtGui.QCursor(QtCore.Qt.CursorShape.OpenHandCursor))
+        self.btn_logout.setStyleSheet("QPushButton{\n"
+"    background-color:#000F1B;\n"
+"    border : none;\n"
+"    color: #EC6E7D;\n"
+"}\n"
+"\n"
+"QPushButton::hover{\n"
+"    background-color:#EC6E7D;\n"
+"    color : white;\n"
+"    border-radius:7px;\n"
+"    padding:20px;\n"
+"}")
+        icon4 = QtGui.QIcon()
+        icon4.addPixmap(QtGui.QPixmap(self.ctx.get_resource("assets/icons/logout.png")), QtGui.QIcon.Mode.Normal, QtGui.QIcon.State.Off)
+        self.btn_logout.setIcon(icon4)
+        self.btn_logout.setObjectName("btn_logout")
+        
+        
+        #End Button Deconnexion
         self.frame = QtWidgets.QFrame(self.centralwidget)
         self.frame.setGeometry(QtCore.QRect(229, 79, 1471, 1001))
         self.frame.setStyleSheet("QFrame{\n"
@@ -297,6 +326,8 @@ class Ui_HomeWindow(object):
         self.btn_accueil.setText(_translate("HomeWindow", "   Accueil"))
         self.btn_statistiques.setText(_translate("HomeWindow", "  Statistiques"))
         self.btn_aide.setText(_translate("HomeWindow", "   Aide"))
+        self.btn_logout.setText(_translate("HomeWindow", "   Deconnexion"))
+        
         self.label_4.setText(_translate("HomeWindow", "Nombre Total de Cas "))
         self.label_nombre_cas.setText(_translate("HomeWindow", "0"))
         self.label_3.setText(_translate("HomeWindow", "Aperçu"))
