@@ -1,0 +1,1083 @@
+{
+"1-5-2020": {
+        "id_com": "communique61",
+        "date": "1-5-2020",
+        "nb_test": "901",
+        "nb_nv_cas": "91",
+        "nb_cas_contact": "88",
+        "nb_cas_communautaire": "3",
+        "nb_gueris": "22",
+        "nb_deces": "0",
+        "TOUBA":{
+        "NbreCas": "6"
+        },
+        "DAKAR":{
+        "CASTORS":{
+                "NbreCas":"1"
+        }
+        },
+        "THIES":{
+            "NbreCas": "1"
+        },
+        "DAROU MINAME":{
+            "NbreCas": "1"
+        },
+        "SAINT LOUIS":{
+            "NbreCas": "1"
+        }
+        },
+"2-5-2020": {
+        "id_com": "communique62",
+        "date": "2-5-2020",
+        "nb_test": "1190",
+        "nb_nv_cas": "91",
+        "nb_cas_contact": "87",
+        "nb_cas_communautaire": "4",
+        "nb_gueris": "12",
+        "nb_deces": "0",
+        "DAKAR":{
+        "GRAND MEDINE":{
+                "NbreCas":"1"
+        },
+        "RUFISQUE":{
+            "NbreCas":"1"
+         }
+
+        },
+        "TOUBA":{
+            "NbreCas": "1"
+        },
+        "MBACKE":{
+            "NbreCas": "1"
+        }
+        },
+"3-5-2020": {
+        "id_com": "communique63",
+        "date": "3-5-2020",
+        "nb_test": "810",
+        "nb_nv_cas": "67",
+        "nb_cas_contact": "62",
+        "nb_cas_communautaire": "5",
+        "nb_gueris": "4",
+        "nb_deces": "1",
+        "DAKAR":{
+        "YOFF":{
+                "NbreCas":"1"
+        },
+        "DIAMNIADIO":{
+              "NbreCas":"1"
+             }
+    
+        },
+        "TOUBA":{
+            "NbreCas": "1"
+            },
+        "THIES":{
+            "NbreCas": "1"
+            }
+            },
+"4-5-2020": {
+        "id_com": "communique64",
+        "date": "4-5-2020",
+        "nb_test": "807",
+        "nb_nv_cas": "89",
+        "nb_cas_contact": "86",
+        "nb_cas_communautaire": "3",
+        "nb_gueris": "43",
+        "nb_deces": "01",
+        "DAKAR":{
+        "MEDINA":{
+                "NbreCas":"2"
+        }
+    
+        },
+       
+        "MBOUR":{
+            "NbreCas": "1"
+            }
+            },
+"5-5-2020": {
+        "id_com": "communique65",
+        "date": "5-5-2020",
+        "nb_test": "702",
+        "nb_nv_cas": "58",
+        "nb_cas_contact": "54",
+        "nb_cas_communautaire": "4",
+        "nb_gueris": "55",
+        "nb_deces": "1",
+        "DAKAR":{
+        "MEDINA":{
+                "NbreCas":"1"
+        },
+        "PARCELLES ASSAINIES":{
+              "NbreCas":"1"
+             },
+        "GUEDIAWAYE":{
+            "NbreCas":"1"
+        }
+    
+        },
+        "TOUBA":{
+            "NbreCas": "1"
+            }
+    
+            },
+"6-5-2020": {
+        "id_com": "communique66",
+        "date": "6-5-2020",
+        "nb_test": "1182",
+        "nb_nv_cas": "104",
+        "nb_cas_contact": "100",
+        "nb_cas_communautaire": "4",
+        "nb_gueris": "23",
+        "nb_deces": "0",
+        "DAKAR":{
+        "PIKINE":{
+                "NbreCas":"1"
+        },
+        "BEN TALLY":{
+              "NbreCas":"1"
+             }
+    
+        },
+        "SEDHIOU":{
+            "NbreCas": "1"
+            },
+        "VELINGARA":{
+            "NbreCas": "1"
+            }
+            },
+"7-5-2020": {
+        "id_com": "communique67",
+        "date": "7-5-2020",
+        "nb_test": "1027",
+        "nb_nv_cas": "59",
+        "nb_cas_contact": "51",
+        "nb_cas_communautaire": "8",
+        "nb_gueris": "69",
+        "nb_deces": "1",
+        "DAKAR":{
+        "PIKINE":{
+                "NbreCas":"1"
+        },
+        "PARCELLES ASSAINIES":{
+              "NbreCas":"2"
+             },
+       "GRAND YOFF":{
+                "NbreCas":"1"
+               },
+        "MARISTES":{
+              "NbreCas":"1"
+             },
+         "RUFISQUE":{
+              "NbreCas":"1"
+             },
+       "YEUMBEUl":{
+              "NbreCas":"1"
+             }
+    
+        },
+        "TOUBA":{
+            "NbreCas": "1"
+            }
+       
+            },
+"8-5-2020": {
+        "id_com": "communique68",
+        "date": "8-5-2020",
+        "nb_test": "872",
+        "nb_nv_cas": "59",
+        "nb_cas_contact": "52",
+        "nb_cas_communautaire": "7",
+        "nb_gueris": "49",
+        "nb_deces": "1",
+        "DAKAR":{
+        "LIBERTE6":{
+                "NbreCas":"1"
+        },
+        "GUEDIAWAYE":{
+              "NbreCas":"1"
+             },
+       "YOFF":{
+                "NbreCas":"1"
+               },
+        "SANGALKAM":{
+              "NbreCas":"1"
+             }
+         
+    
+        },
+        "TOUBA":{
+            "NbreCas": "3"
+            }
+       
+            },
+"9-5-2020": {
+        "id_com": "communique69",
+        "date": "9-5-2020",
+        "nb_test": "848",
+        "nb_nv_cas": "83",
+        "nb_cas_contact": "69",
+        "nb_cas_communautaire": "14",
+        "nb_gueris": "32",
+        "nb_deces": "1",
+        "DAKAR":{
+        "FASS":{
+                "NbreCas":"1"
+        },
+        "PARCELLES ASSAINIES":{
+              "NbreCas":"5"
+             },
+       "MBAO":{
+                "NbreCas":"2"
+               },
+        "MEDINA":{
+              "NbreCas":"2"
+             }
+    
+        },
+        "TOUBA":{
+            "NbreCas": "4"
+            }
+       
+            },
+"10-5-2020": {
+        "id_com": "communique70",
+        "date": "10-5-2020",
+        "nb_test": "1356",
+        "nb_nv_cas": "75",
+        "nb_cas_contact": "70",
+        "nb_cas_communautaire": "5",
+        "nb_gueris": "7",
+        "nb_deces": "0",
+        "DAKAR":{
+       
+       "GRAND YOFF":{
+                "NbreCas":"2"
+               },
+        "YOFF":{
+              "NbreCas":"1"
+             },
+        "OUAGOU NIAYES":{
+                "NbreCas":"1"
+               }
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "1"
+            }
+       
+            },
+"11-5-2020": {
+        "id_com": "communique71",
+        "date": "11-5-2020",
+        "nb_test": "917",
+        "nb_nv_cas": "177",
+        "nb_cas_contact": "169",
+        "nb_cas_communautaire": "8",
+        "nb_gueris": "65",
+        "nb_deces": "0",
+        "DAKAR":{
+       
+       "MBAO":{
+                "NbreCas":"2"
+               },
+        "LIBERTE 3":{
+              "NbreCas":"1"
+             },
+        "PIKINE":{
+                "NbreCas":"1"
+               }
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "1"
+            },
+        "TAMBACOUNDA":{
+            "NbreCas": "3"
+            }
+       
+            },
+"12-5-2020": {
+        "id_com": "communique72",
+        "date": "12-5-2020",
+        "nb_test": "1099",
+        "nb_nv_cas": "109",
+        "nb_cas_contact": "107",
+        "nb_cas_communautaire": "2",
+        "nb_gueris": "27",
+        "nb_deces": "0",
+        "DAKAR":{
+       
+       "PATTE DOIE":{
+                "NbreCas":"1"
+     
+
+        
+    
+        }},
+        "TOUBA":{
+            "NbreCas": "1"
+            }
+       
+            },
+"13-5-2020": {
+        "id_com": "communique73",
+        "date": "13-5-2020",
+        "nb_test": "920",
+        "nb_nv_cas": "110",
+        "nb_cas_contact": "102",
+        "nb_cas_communautaire": "8",
+        "nb_gueris": "40",
+        "nb_deces": "2",
+        "DAKAR":{
+       
+       "MEDINA":{
+                "NbreCas":"3"
+               }
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "5"
+            }
+       
+            },
+"14-5-2020": {
+        "id_com": "communique74",
+        "date": "14-5-2020",
+        "nb_test": "992",
+        "nb_nv_cas": "84",
+        "nb_cas_contact": "73",
+        "nb_cas_communautaire": "11",
+        "nb_gueris": "60",
+        "nb_deces": "1",
+        "DAKAR":{
+       
+       "MEDINA":{
+                "NbreCas":"2"
+               },
+        "GRAND YOFF":{
+              "NbreCas":"1"
+             },
+        "PATTE DOIE":{
+                "NbreCas":"1"
+               },
+        "GEULE TAPEE":{
+                "NbreCas":"1"
+               },
+        "AMITIE2":{
+                "NbreCas":"1"
+               },
+        "GUEDIAWAYE":{
+            "NbreCas":"1"
+        }
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "3"
+            },
+        "ZIGUINCHOR":{
+            "NbreCas": "1"
+            },
+         "NIORO":{
+            "NbreCas":"1"
+           }   
+       
+            },
+"15-5-2020": {
+        "id_com": "communique75",
+        "date": "15-5-2020",
+        "nb_test": "1128",
+        "nb_nv_cas": "121",
+        "nb_cas_contact": "119",
+        "nb_cas_communautaire": "2",
+        "nb_gueris": "48",
+        "nb_deces": "1",
+        "DAKAR":{
+       
+    
+        "GUEDIAWAYE":{
+            "NbreCas":"1"
+        }
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "1"
+            }
+       
+            },
+"16-5-2020": {
+        "id_com": "communique76",
+        "date": "16-5-2020",
+        "nb_test": "989",
+        "nb_nv_cas": "119",
+        "nb_cas_contact": "108",
+        "nb_cas_communautaire": "11",
+        "nb_gueris": "59",
+        "nb_deces": "0",
+        "DAKAR":{
+       
+       "SOPRIM":{
+                "NbreCas":"2"
+               },
+        "GRAND YOFF":{
+              "NbreCas":"2"
+             },
+        "DALIFORT":{
+                "NbreCas":"1"
+               },
+        "PIKINE":{
+                "NbreCas":"1"
+               }
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "2"
+            },
+        "POPENGUINE":{
+            "NbreCas": "2"
+            },
+         "LINGUERE":{
+            "NbreCas":"1"
+           }   
+       
+            },
+"17-5-2020": {
+        "id_com": "communique77",
+        "date": "17-5-2020",
+        "nb_test": "992",
+        "nb_nv_cas": "84",
+        "nb_cas_contact": "73",
+        "nb_cas_communautaire": "11",
+        "nb_gueris": "60",
+        "nb_deces": "1",
+        "DAKAR":{
+       
+       "MEDINA":{
+                "NbreCas":"2"
+               },
+        "GRAND YOFF":{
+              "NbreCas":"1"
+             },
+        "PATTE DOIE":{
+                "NbreCas":"1"
+               },
+        "GEULE TAPEE":{
+                "NbreCas":"1"
+               },
+        "AMITIE2":{
+                "NbreCas":"1"
+               },
+        "GUEDIAWAYE":{
+            "NbreCas":"1"
+        }
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "3"
+            },
+        "ZIGUINCHOR":{
+            "NbreCas": "1"
+            },
+         "NIORO":{
+            "NbreCas":"1"
+           }   
+       
+            },
+"18-5-2020": {
+        "id_com": "communique78",
+        "date": "18-5-2020",
+        "nb_test": "1172",
+        "nb_nv_cas": "64",
+        "nb_cas_contact": "59",
+        "nb_cas_communautaire": "5",
+        "nb_gueris": "60",
+        "nb_deces": "1",
+        "DAKAR":{
+       
+       
+        "GRAND YOFF":{
+              "NbreCas":"1"
+             },
+        "DIAMNIADIO":{
+                "NbreCas":"1"
+               }
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "2"
+            },
+        "FATICK":{
+            "NbreCas": "1"
+            }  
+       
+            },
+"19-5-2020": {
+        "id_com": "communique79",
+        "date": "19-5-2020",
+        "nb_test": "930",
+        "nb_nv_cas": "73",
+        "nb_cas_contact": "68",
+        "nb_cas_communautaire": "5",
+        "nb_gueris": "57",
+        "nb_deces": "3",
+        "DAKAR":{
+       
+       "DAKAR-FAIDHERBE":{
+                "NbreCas":"1"
+               },
+        "GRAND MEDINE":{
+              "NbreCas":"1"
+             },
+        "YOFF":{
+                "NbreCas":"1"
+               }
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "2"
+            }
+        },
+"20-5-2020": {
+        "id_com": "communique80",
+        "date": "20-5-2020",
+        "nb_test": "1042",
+        "nb_nv_cas": "97",
+        "nb_cas_contact": "83",
+        "nb_cas_communautaire": "14",
+        "nb_gueris": "53",
+        "nb_deces": "0",
+        "DAKAR":{
+       
+       "SACRE COEUR":{
+                "NbreCas":"2"
+               },
+        "HLM GRAND YOFF":{
+              "NbreCas":"1"
+             },
+        "BENE TALLY":{
+                "NbreCas":"2"
+               },
+        "PARCELLES ASSAINIES":{
+                "NbreCas":"1"
+               },
+        "OUAKAM":{
+                "NbreCas":"1"
+               },
+         "BEL AIR":{
+                "NbreCas":"1"
+               },
+        
+        "GUEDIAWAYE":{
+            "NbreCas":"2"
+        },
+        "YEUMBEUL":{
+            "NbreCas":"1"
+           },
+         "KEUR MASSAR":{
+            "NbreCas":"1"
+           }
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "2"
+            }
+        
+            },
+"21-5-2020": {
+        "id_com": "communique81",
+        "date": "21-5-2020",
+        "nb_test": "1215",
+        "nb_nv_cas": "98",
+        "nb_cas_contact": "92",
+        "nb_cas_communautaire": "6",
+        "nb_gueris": "65",
+        "nb_deces": "0",
+        "DAKAR":{
+       
+       "MARISTES":{
+                "NbreCas":"1"
+               },
+        "CASTORS":{
+              "NbreCas":"1"
+             },
+        "CITE KEUR DAMEL":{
+                "NbreCas":"1"
+               },
+        "DAKAR PLATEAU":{
+                "NbreCas":"1"
+               },
+        
+        "GUEDIAWAYE":{
+            "NbreCas":"1"
+        }
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "1"
+            }
+        
+            },
+"22-5-2020": {
+        "id_com": "communique82",
+        "date": "22-5-2020",
+        "nb_test": "1199",
+        "nb_nv_cas": "97",
+        "nb_cas_contact": "83",
+        "nb_cas_communautaire": "14",
+        "nb_gueris": "60",
+        "nb_deces": "0",
+        "DAKAR":{
+       
+       "CAMBERENE":{
+                "NbreCas":"1"
+               },
+        "DERKLE":{
+              "NbreCas":"1"
+             },
+        "CITE BISSAP":{
+                "NbreCas":"1"
+               },
+        "YOFF":{
+                "NbreCas":"1"
+               },
+        "ALMADIES":{
+                "NbreCas":"1"
+               },
+         "NGOR":{
+                "NbreCas":"1"
+               },
+        
+        "GUEDIAWAYE":{
+            "NbreCas":"4"
+        },
+        "LIBERTE4":{
+            "NbreCas":"1"
+           },
+         "KEUR MASSAR":{
+            "NbreCas":"1"
+           },
+           "AVENUE LAMINE GUEYE":{
+            "NbreCas":"1"
+           }
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "1"
+            }
+        
+            },
+"23-5-2020": {
+        "id_com": "communique83",
+        "date": "23-5-2020",
+        "nb_test": "934",
+        "nb_nv_cas": "67",
+        "nb_cas_contact": "49",
+        "nb_cas_communautaire": "16",
+        "nb_gueris": "16",
+        "nb_deces": "2",
+        "DAKAR":{
+       
+       "GRAND MEDINE":{
+                "NbreCas":"1"
+               },
+        "DIAMAGUENE":{
+              "NbreCas":"1"
+             },
+        "PARCELLES ASSAINIES ":{
+                "NbreCas":"1"
+               },
+        "OUAKAM":{
+                "NbreCas":"1"
+               },
+        "MAMELLES":{
+                "NbreCas":"1"
+               },
+         "FASS":{
+                "NbreCas":"1"
+               },
+        
+        "GUEDIAWAYE":{
+            "NbreCas":"2"
+        },
+        "LIBERTE6":{
+            "NbreCas":"1"
+           },
+         "KEUR MASSAR":{
+            "NbreCas":"1"
+           },
+           "MEDINA":{
+            "NbreCas":"1"
+           },
+           "MBAO":{
+            "NbreCas":"1"
+           }
+          
+           
+
+
+        
+    
+        },
+        "THIADIAYE":{
+            "NbreCas": "1"
+            },
+        "MEKHE":{
+                "NbreCas":"1"
+               }
+        
+            },
+"24-5-2020": {
+        "id_com": "communique84",
+        "date": "24-5-2020",
+        "nb_test": "889",
+        "nb_nv_cas": "71",
+        "nb_cas_contact": "66",
+        "nb_cas_communautaire": "4",
+        "nb_gueris": "40",
+        "nb_deces": "1",
+        "DAKAR":{
+       
+       "HLM GRAND YOFF":{
+                "NbreCas":"2"
+               },
+        
+        "GUEDIAWAYE":{
+            "NbreCas":"1"
+        },
+           "MBAO":{
+            "NbreCas":"1"
+           }
+  }
+        
+            },
+"25-5-2020": {
+        "id_com": "communique85",
+        "date": "25-5-2020",
+        "nb_test": "1091",
+        "nb_nv_cas": "83",
+        "nb_cas_contact": "79",
+        "nb_cas_communautaire": "4",
+        "nb_gueris": "59",
+        "nb_deces": "0",
+        "DAKAR":{
+       
+       "SCAT URBAM":{
+                "NbreCas":"1"
+               },
+        "CITE APECSY":{
+              "NbreCas":"1"
+             },
+        "RUFISQUE":{
+                "NbreCas":"1"
+               }
+       },
+        "THIES":{
+            "NbreCas": "1"
+            }
+        
+        
+            },
+"26-5-2020": {
+        "id_com": "communique86",
+        "date": "26-5-2020",
+        "nb_test": "551",
+        "nb_nv_cas": "31",
+        "nb_cas_contact": "28",
+        "nb_cas_communautaire": "3",
+        "nb_gueris": "",
+        "nb_deces": "2",
+        "DAKAR":{
+       
+       "CASTORS":{
+                "NbreCas":"1"
+               }
+          
+           
+
+
+        
+    
+        },
+        "THIES":{
+            "NbreCas": "2"
+            }
+            },
+"27-5-2020": {
+        "id_com": "communique87",
+        "date": "27-5-2020",
+        "nb_test": "961",
+        "nb_nv_cas": "92",
+        "nb_cas_contact": "80",
+        "nb_cas_communautaire": "12",
+        "nb_gueris": "21",
+        "nb_deces": "1",
+        "DAKAR":{
+       
+       "FRONT TERRE ":{
+                "NbreCas":"1"
+               },
+        "HANN":{
+              "NbreCas":"1"
+             },
+        "PARCELLES ASSAINIES ":{
+                "NbreCas":"1"
+               },
+        "OUEST FOIRE":{
+                "NbreCas":"1"
+               },
+        "CITE ASECNA":{
+                "NbreCas":"1"
+               },
+         "MERMOZ":{
+                "NbreCas":"1"
+               },
+        
+        "GUEDIAWAYE":{
+            "NbreCas":"2"
+        },
+        "MBAO":{
+            "NbreCas":"1"
+           }
+          
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+                "NbreCas":"4"
+               }
+        
+            },
+"28-5-2020": {
+        "id_com": "communique88",
+        "date": "28-5-2020",
+        "nb_test": "991",
+        "nb_nv_cas": "95",
+        "nb_cas_contact": "86",
+        "nb_cas_communautaire": "9",
+        "nb_gueris": "100",
+        "nb_deces": "3",
+        "DAKAR":{
+       
+       "ZONE DE CAPTAGE":{
+                "NbreCas":"1"
+               },
+        "BENE TALLY ":{
+              "NbreCas":"1"
+             },
+        "CASTORS":{
+                "NbreCas":"1"
+               },
+        "GIBRALTAR":{
+                "NbreCas":"1"
+               },
+        "GOLF SUD":{
+                "NbreCas":"1"
+               }
+          
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "4"
+            }
+        
+            },
+"29-5-2020": {
+        "id_com": "communique89",
+        "date": "29-5-2020",
+        "nb_test": "1236",
+        "nb_nv_cas": "81",
+        "nb_cas_contact": "66",
+        "nb_cas_communautaire": "13",
+        "nb_gueris": "52",
+        "nb_deces": "2",
+        "DAKAR":{
+       
+       "GOLF SUD":{
+                "NbreCas":"1"
+               },
+        "MARISTES":{
+              "NbreCas":"1"
+             },
+        "PARCELLES ASSAINIES ":{
+                "NbreCas":"1"
+               },
+        "HANN":{
+                "NbreCas":"1"
+               },
+        "MALIKA":{
+                "NbreCas":"2"
+               },
+         "OUAKAM":{
+                "NbreCas":"1"
+               },
+        
+        "YEUMBEUL":{
+            "NbreCas":"1"
+        },
+        "LIBERTE6":{
+            "NbreCas":"1"
+           },
+         "KEUR MASSAR":{
+            "NbreCas":"1"
+           }
+          
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "3"
+            }
+        
+            },
+"30-5-2020": {
+        "id_com": "communique90",
+        "date": "30-5-2020",
+        "nb_test": "1370",
+        "nb_nv_cas": "106",
+        "nb_cas_contact": "94",
+        "nb_cas_communautaire": "12",
+        "nb_gueris": "23",
+        "nb_deces": "0",
+        "DAKAR":{
+       
+       "CAMBERENE":{
+                "NbreCas":"2"
+               },
+        "COLOBANE":{
+              "NbreCas":"1"
+             },
+        "PARCELLES ASSAINIES ":{
+                "NbreCas":"2"
+               },
+        "LIBERTE 3":{
+                "NbreCas":"1"
+               },
+        "HANN":{
+                "NbreCas":"1"
+               },
+         "NORD FOIRE":{
+                "NbreCas":"1"
+               },
+        
+        "GUEDIAWAYE":{
+            "NbreCas":"2"
+        },
+        "SICAP AMITIE":{
+            "NbreCas":"1"
+           }
+          
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "1"
+            },
+        "KOUNGHEUL":{
+                "NbreCas":"1"
+               }
+        
+            },
+"31-5-2020": {
+        "id_com":"communique91",
+        "date": "31-5-2020",
+        "nb_test": "1024",
+        "nb_nv_cas": "110",
+        "nb_cas_contact": "98",
+        "nb_cas_communautaire": "12",
+        "nb_gueris": "40",
+        "nb_deces": "0",
+        "DAKAR":{
+       
+       "GRAND YOFF":{
+                "NbreCas":"4"
+               },
+        "DIAMAGUENE":{
+              "NbreCas":"1"
+             },
+        "YARAKH":{
+                "NbreCas":"1"
+               },
+         "YOFF":{
+                "NbreCas":"1"
+               },
+        
+        "GUEDIAWAYE":{
+            "NbreCas":"2"
+        },
+        "OUAKAM":{
+            "NbreCas":"1"
+           }
+          
+           
+
+
+        
+    
+        },
+        "TOUBA":{
+            "NbreCas": "2"
+            }
+        
+            }
+
+
+            
+
+
+}
