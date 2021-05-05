@@ -1,0 +1,541 @@
+{
+   "01-4-2020": {
+      "id_com": "communique31",
+      "date": "01-4-2020",
+      "nb_test": "195",
+      "nb_nv_cas": "15",
+      "nb_cas_contact": "14",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+      },
+      "02-4-2020": {
+         "id_com": "communique32",
+         "date": "02-4-2020",
+         "nb_test": "127",
+         "nb_nv_cas": "5",
+         "nb_cas_contact": "3",
+         "nb_cas_communautaire": "0",
+         "nb_gueris": "10",
+         "nb_deces": "0"
+         },
+         "03-4-2020": {
+            "id_com": "communique33",
+            "date": "03-4-2020",
+            "nb_test": "153",
+            "nb_nv_cas": "12",
+            "nb_cas_contact": "5",
+            "nb_cas_communautaire": "",
+            "nb_gueris": "11",
+            "nb_deces": "1"
+            },
+            "04-4-2020": {
+               "id_com": "communique34",
+               "date": "04-4-2020",
+               "nb_test": "177",
+               "nb_nv_cas": "12",
+               "nb_cas_contact": "10",
+               "nb_cas_communautaire": "1",
+               "nb_gueris": "6",
+               "nb_deces": "0"
+               },
+            "05-4-2020": {
+                  "id_com": "communique35",
+                  "date": "05-4-2020",
+                  "nb_test": "92",
+                  "nb_nv_cas": "3",
+                  "nb_cas_contact": "2",
+                  "nb_cas_communautaire": "1",
+                  "nb_gueris": "10",
+                  "nb_deces": "0"
+                  },
+          "06-4-2020": {
+                     "id_com": "communique36",
+                     "date": "06-4-2020",
+                     "nb_test": "95",
+                     "nb_nv_cas": "4",
+                     "nb_cas_contact": "3",
+                     "nb_cas_communautaire": "1",
+                     "nb_gueris": "10",
+                     "nb_deces": "0"
+                     },
+          "07-4-2020": {
+                        "id_com": "communique37",
+                        "date": "07-4-2020",
+                        "nb_test": "110",
+                        "nb_nv_cas": "11",
+                        "nb_cas_contact": "9",
+                        "nb_cas_communautaire": "2",
+                        "nb_gueris": "13",
+                        "nb_deces": "0"
+                        },
+          "08-4-2020": {
+                         "id_com": "communique38",
+                           "date": "08-4-2020",
+                           "nb_test": "108",
+                           "nb_nv_cas": "7",
+                           "nb_cas_contact": "2",
+                           "nb_cas_communautaire": "5",
+                           "nb_gueris": "8",
+                           "nb_deces": "0"
+                           },
+             "09-4-2020":{
+                           "id_com": "communique39",
+                              "date": "09-4-2020",
+                              "nb_test": "199",
+                              "nb_nv_cas": "06",
+                              "nb_cas_contact": "06",
+                              "nb_cas_communautaire": "0",
+                              "nb_gueris": "10",
+                              "nb_deces": "0"
+                              }  , 
+             "10-4-2020": {
+                                 "id_com": "communique40",
+                                 "date": "10-4-2020",
+                                 "nb_test": "195",
+                                 "nb_nv_cas": "15",
+                                 "nb_cas_contact": "15",
+                                 "nb_cas_communautaire": "0",
+                                 "nb_gueris": "14",
+                                 "nb_deces": "0"
+                                 },
+             "11-4-2020": {
+                                    "id_com": "communique41",
+                                    "date": "11-4-2020",
+                                    "nb_test": "173",
+                                    "nb_nv_cas": "13",
+                                    "nb_cas_contact": "12",
+                                    "nb_cas_communautaire": "1",
+                                    "nb_gueris": "15",
+                                    "nb_deces": "1"
+                                    },
+          "12-4-2020": {
+                                       "id_com": "communique42",
+                                       "date": "12-4-2020",
+                                       "nb_test": "104",
+                                       "nb_nv_cas": "02",
+                                       "nb_cas_contact": "11",
+                                       "nb_cas_communautaire": "1",
+                                       "nb_gueris": "19",
+                                       "nb_deces": "0"
+                                       } ,
+             "13-4-2020": {
+                                       "id_com": "communique43",
+                                          "date": "13-4-2020",
+                                          "nb_test": "144",
+                                          "nb_nv_cas": "11",
+                                          "nb_cas_contact": "10",
+                                          "nb_cas_communautaire": "1",
+                                          "nb_gueris": "7",
+                                          "nb_deces": "0"
+                                          },
+                   "14-4-2020": {
+                                             "id_com": "communique44",
+                                             "date": "14-4-2020",
+                                             "nb_test": "271",
+                                             "nb_nv_cas": "8",
+                                             "nb_cas_contact": "6",
+                                             "nb_cas_communautaire": "2",
+                                             "nb_gueris": "5",
+                                             "nb_deces": "0"
+                                             },
+              "15-4-2020": {
+                                                "id_com": "communique45",
+                                                "date": "15-4-2020",
+                                                "nb_test": "277",
+                                                "nb_nv_cas": "15",
+                                                "nb_cas_contact": "14",
+                                                "nb_cas_communautaire": "1",
+                                                "nb_gueris": "7",
+                                                "nb_deces": "0"
+                                                },
+                "16-4-2020": {
+                                                   "id_com": "communique46",
+                                                   "date": "16-4-2020",
+                                                   "nb_test": "435",
+                                                   "nb_nv_cas": "21",
+                                                   "nb_cas_contact": "19",
+                                                   "nb_cas_communautaire": "2",
+                                                   "nb_gueris": "4",
+                                                   "nb_deces": "1"
+                                                   }  ,
+                  "17-4-2020": {
+                                                      "id_com": "communique47",
+                                                      "date": "17-4-2020",
+                                                      "nb_test": "287",
+                                                      "nb_nv_cas": "7",
+                                                      "nb_cas_contact": "5",
+                                                      "nb_cas_communautaire": "4",
+                                                      "nb_gueris": "4",
+                                                      "nb_deces": "0"
+                                                      },
+                   "18-4-2020": {
+                                                         "id_com": "communique48",
+                                                         "date": "18-4-2020",
+                                                         "nb_test": "226",
+                                                         "nb_nv_cas": "8",
+                                                         "nb_cas_contact": "3",
+                                                         "nb_cas_communautaire": "5",
+                                                         "nb_gueris": "13",
+                                                         "nb_deces": "0",
+                                                         "DAKAR":{
+                                                            
+                                                               "YEUMBEUL":{
+                                                                  "NbreCas": "1"
+                                                               },
+                                                               "SOPRIM":{
+                                                                  "NbreCas": "1"
+                                                               },
+                                                               "MEDINA":{
+                                                                  "NbreCas": "1"
+                                                               },
+                                                               "KEUR MASSAR":{
+                                                                  "NbreCas": "1"
+                                                               }
+
+                                                            },
+                                                            "TOUBA":{
+                                                               "NbreCas": "1"
+                                                            }
+                                                         },
+                     "19-4-2020": {
+                                                            "id_com": "communique49",
+                                                            "date": "19-4-2020",
+                                                            "nb_test": "313",
+                                                            "nb_nv_cas": "17",
+                                                            "nb_cas_contact": "15",
+                                                            "nb_cas_communautaire": "2",
+                                                            "nb_gueris": "9",
+                                                            "nb_deces": "0",
+                                                            "DAKAR":{
+                                                            
+                                                               "GUEDIAWAYE":{
+                                                                  "NbreCas": "1"
+                                                               },
+                                                               "DIEUPPEUL-DERKLE":{
+                                                                  "NbreCas": "1"
+                                                               }
+                                                               
+
+                                                            }
+
+
+                                                            },
+                                              "20-4-2020": {
+                                                               "id_com": "communique50",
+                                                               "date": "20-4-2020",
+                                                               "nb_test": "281",
+                                                               "nb_nv_cas": "10",
+                                                               "nb_cas_contact": "5",
+                                                               "nb_cas_communautaire": "5",
+                                                               "nb_gueris": "9",
+                                                               "nb_deces": "0",
+                                                               "DAKAR":{
+                                                               
+                                                                  "GUEDIAWAYE":{
+                                                                     "NbreCas": "1"
+                                                                  }
+                                                                },
+                                                                "TOUBA":{
+                                                                  "NbreCas": "1"
+                                                               }
+
+   
+   
+                                                               },
+                                                    "21-4-2020": {
+                                                                  "id_com": "communique51",
+                                                                  "date": "21-4-2020",
+                                                                  "nb_test": "466",
+                                                                  "nb_nv_cas": "35",
+                                                                  "nb_cas_contact": "34",
+                                                                  "nb_cas_communautaire": "1",
+                                                                  "nb_gueris": "7",
+                                                                  "nb_deces": "0",
+                                                                  "DAKAR":{
+                                                                  
+                                                                  "NIARRY TALLY ":{
+                                                                        "NbreCas": "1"
+                                                                     }
+                                                                   }
+                                                               
+   
+      
+      
+                                                                  },
+                                                    "22-4-2020": {
+                                                                     "id_com": "communique52",
+                                                                     "date": "22-4-2020",
+                                                                     "nb_test": "482",
+                                                                     "nb_nv_cas": "30",
+                                                                     "nb_cas_contact": "26",
+                                                                     "nb_cas_communautaire": "4",
+                                                                     "nb_gueris": "11",
+                                                                     "nb_deces": "1",
+                                                                      "TOUBA":{
+                                                                        "NbreCas": "4"
+                                                                     }
+      
+         
+         
+                                                                  },
+                                                    "23-4-2020": {
+                                                                     "id_com": "communique53",
+                                                                     "date": "23-4-2020",
+                                                                     "nb_test": "387",
+                                                                     "nb_nv_cas": "37",
+                                                                     "nb_cas_contact": "29",
+                                                                     "nb_cas_communautaire": "8",
+                                                                     "nb_gueris": "4",
+                                                                     "nb_deces": "0",
+                                                                     
+                                                                   "TOUBA":{
+                                                                        "NbreCas": "5"
+                                                                     },
+                                                                     "MBACKE":{
+                                                                        "Nbrecas":"1"
+                                                                     },
+                                                                     "THIES":{
+                                                                        "Nbrecas":"1"
+                                                                     },
+                                                                     "TIVAOUANE":{
+                                                                        "Nbrecas":"1"
+                                                                     }
+
+      
+         
+         
+                                                                     },
+                                                       "24-4-2020": {
+                                                                        "id_com": "communique54",
+                                                                        "date": "24-4-2020",
+                                                                        "nb_test": "528",
+                                                                        "nb_nv_cas": "66",
+                                                                        "nb_cas_contact": "61",
+                                                                        "nb_cas_communautaire": "5",
+                                                                        "nb_gueris": "5",
+                                                                        "nb_deces": "1",
+                                                                         "TOUBA":{
+                                                                           "NbreCas": "2"
+                                                                        },
+                                                                        "DAKAR":{
+                                                                           "MEDINA":{
+                                                                                 "NbreCas":"1"
+                                                                           }
+                                                                        },
+                                                                        "MBACKE":{
+                                                                           "Nbrecas":"1"
+                                                                        },
+                                                                        "POUT":{
+                                                                           "Nbrecas":"1"
+                                                                        }
+         
+            
+            
+                                                                     },
+                                                      "25-4-2020": {
+                                                                        "id_com": "communique55",
+                                                                        "date": "25-4-2020",
+                                                                        "nb_test": "703",
+                                                                        "nb_nv_cas": "69",
+                                                                        "nb_cas_contact": "63",
+                                                                        "nb_cas_communautaire": "6",
+                                                                        "nb_gueris": "11",
+                                                                        "nb_deces": "0",
+                                                                         "MBACKE":{
+                                                                           "NbreCas": "4"
+                                                                        },
+                                                                        "DAKAR":{
+                                                                           "COLOBANE":{
+                                                                                 "NbreCas":"1"
+                                                                           },
+                                                                           "MBAO":{
+                                                                              "NbreCas":"1"
+                                                                        },
+                                                                        "PARCELLES ASSAINIES":{
+                                                                           "NbreCas":"1"
+                                                                       }
+                                                                       },
+                                                                       "NIAYES THIOKER":{
+                                                                        "NbreCas": "1"
+                                                                     },
+                                                                     "NIORO":{
+                                                                        "NbreCas": "4"
+                                                                     }
+
+
+
+         
+            
+            
+                                                                     },
+                                                 "26-4-2020": {
+                                                                        "id_com": "communique56",
+                                                                        "date": "26-4-2020",
+                                                                        "nb_test": "579",
+                                                                        "nb_nv_cas": "57",
+                                                                        "nb_cas_contact": "47",
+                                                                        "nb_cas_communautaire": "9",
+                                                                        "nb_gueris": "11",
+                                                                        "nb_deces": "1",
+                                                                         "TOUBA":{
+                                                                           "NbreCas": "2"
+                                                                        },
+                                                                        "DAKAR":{
+                                                                           "SANGALKAM":{
+                                                                                 "NbreCas":"1"
+                                                                           },
+                                                                           "MBAO":{
+                                                                              "NbreCas":"2"
+                                                                        },
+                                                                        "PARCELLES ASSAINIES":{
+                                                                           "NbreCas":"1"
+                                                                       }
+
+         
+            
+            
+                                                                     },
+                                                                     "TAMBACOUNDA":{
+                                                                        "NbreCas": "1"
+                                                                     },
+                                                                     "MBOUR":{
+                                                                        "NbreCas": "3"
+                                                                     }
+
+                                                                  
+
+
+                                                         },
+                                              "27-4-2020": {
+                                                            "id_com": "communique57",
+                                                            "date": "27-4-2020",
+                                                            "nb_test": "677",
+                                                            "nb_nv_cas": "64",
+                                                            "nb_cas_contact": "50",
+                                                            "nb_cas_communautaire": "14",
+                                                            "nb_gueris": "1",
+                                                            "nb_deces": "1",
+                                                             "TOUBA":{
+                                                               "NbreCas": "6"
+                                                            },
+                                                            "DAKAR":{
+                                                               "SANGALKAM":{
+                                                                     "NbreCas":"2"
+                                                               },
+
+                                                             "MBAO":{
+                                                                  "NbreCas":"2"
+                                                            },
+                                                            "PARCELLES ASSAINIES":{
+                                                               "NbreCas":"1"
+                                                           },
+                                                           "RUFISQUE":{
+                                                            "NbreCas":"2"
+                                                        },
+                                                        "GRAND MEDINE":{
+                                                         "NbreCas":"2"
+                                                         }
+                                                         },
+                                                         "THIES":{
+                                                            "NbreCas": "1"
+                                                         },
+                                                         "SEDHIOU":{
+                                                            "NbreCas": "3"
+                                                         },
+                                                         "MBACKE":{
+                                                            "NbreCas": "3"
+                                                         }
+
+                                                      
+
+
+                                             } ,
+                         "28-4-2020": {
+                                                "id_com": "communique58",
+                                                "date": "28-4-2020",
+                                                "nb_test": "873",
+                                                "nb_nv_cas": "87",
+                                                "nb_cas_contact": "86",
+                                                "nb_cas_communautaire": "1",
+                                                "nb_gueris": "12",
+                                                "nb_deces": "",
+                                                
+                                                "DAKAR":{
+                                               
+                                               "NIARRY TALLY":{
+                                                "NbreCas":"2"
+                                               }
+                                            
+                                             }
+                                             
+
+                                          
+
+
+                                 },
+
+                                 "29-4-2020": {
+                                    "id_com": "communique59",
+                                    "date": "29-4-2020",
+                                    "nb_test": "800",
+                                    "nb_nv_cas": "59",
+                                    "nb_cas_contact": "51",
+                                    "nb_cas_communautaire": "8",
+                                    "nb_gueris": "19",
+                                    "nb_deces": "0",
+                                     "TOUBA":{
+                                       "NbreCas": "1"
+                                    },
+                                    "DAKAR":{
+                                       "PATTE DOIE":{
+                                             "NbreCas":"1"
+                                       }
+
+                                   
+                                 },
+                                 "THIES":{
+                                    "NbreCas": "6"
+                                 }
+                                
+
+                              
+
+
+                     }  ,
+                     "30-4-2020": {
+                        "id_com": "communique60",
+                        "date": "30-4-2020",
+                        "nb_test": "1161",
+                        "nb_nv_cas": "51",
+                        "nb_cas_contact": "40",
+                        "nb_cas_communautaire": "11",
+                        "nb_gueris": "19",
+                        "nb_deces": "0",
+                         "TOUBA":{
+                           "NbreCas": "08"
+                        },
+                        "DAKAR":{
+                           "MARISTES":{
+                                 "NbreCas":"1"
+                           },
+
+                         "MBAO":{
+                              "NbreCas":"1"
+                        }
+                        
+                     },
+                     
+                     "MBACKE":{
+                        "NbreCas": "1"
+                     }
+
+                  
+
+
+         }
+                                                       
+                                    
+            
+  
+}
