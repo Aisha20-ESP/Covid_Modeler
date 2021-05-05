@@ -8,20 +8,20 @@ print(text1)
 month={"JANVIER":1,"FEVRIER":2,"MARS":3,"AVRIL":4,"MAI":5,"JUIN":6,"JUILLET":7,"AOUT":8,"SEPTEMBRE":9,"OCTOBRE":10,"NOVEMBRE":11,"DECEMBRE":12}
 class DataExtraction():
     def __init__(self):
-        self.num_communique=0;
-        self.Date_communique;
-        self.Date_extraction;
-        self.nbre_tests;
-        self.nbre_nouv_cas;
-        self.nbre_cas_contacts;
-        self.nbre_cas_importes;
-        self.nbre_cas_communautaire;
-        self.nbre_deces;
-        self.nbre_gueris;
-        self.nbre_cas_grav
-        self.nbre_vaccines;
-        self.nbre_cas_communautaire_par_region;
-        self.nbre_cas_communautaire_par_localite_Dakar;
+        self.num_communique=0,
+        self.Date_communique,
+        self.Date_extraction,
+        self.nbre_tests,
+        self.nbre_nouv_cas,
+        self.nbre_cas_contacts,
+        self.nbre_cas_importes,
+        self.nbre_cas_communautaire,
+        self.nbre_deces,
+        self.nbre_gueris,
+        self.nbre_cas_grav,
+        self.nbre_vaccines,
+        self.nbre_cas_communautaire_par_region,
+        self.nbre_cas_communautaire_par_localite_Dakar
         
     def get_num_communique(self,texte):
         tab_texte=texte.split()
