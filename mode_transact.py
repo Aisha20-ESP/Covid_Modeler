@@ -4,18 +4,19 @@ from mysql.connector.connection import MySQLConnection
 
 
 class Date():
-    def __init__(self):
+    def __init__(self,date,date_heure_extraction,nbre_test,nbre_nouv_cas,nbre_cas_contact,nbre_cas_importes,nbre_cas_communautaire,
+    nbre_deces,nbre_gueris,nbre_cas_graves):
         
-        self.date;
-        self.date_heure_extraction;
-        self.nbre_test;
-        self.nbre_nouv_cas;
-        self.nbre_cas_contact;
-        self.nbre_cas_importes;
-        self.nbre_cas_communautaire;
-        self.nbre_deces;
-        self.nbre_gueris;
-        self.nbre_cas_graves;
+        self.date = date,
+        self.date_heure_extraction = date_heure_extraction,
+        self.nbre_test = nbre_test,
+        self.nbre_nouv_cas = nbre_nouv_cas,
+        self.nbre_cas_contact = nbre_cas_contact,
+        self.nbre_cas_importes = nbre_cas_importes,
+        self.nbre_cas_communautaire = nbre_cas_communautaire,
+        self.nbre_deces = nbre_deces,
+        self.nbre_gueris = nbre_gueris,
+        self.nbre_cas_graves = nbre_cas_graves,
     
 # ---------------------------------------------------------------------------------
 def connexion(host: string, database: string, login: string, pwd: string):
@@ -27,12 +28,8 @@ def connexion(host: string, database: string, login: string, pwd: string):
         connexion = connect(host=host, user=login, password=pwd, database=database)
         print(
             f"Connexion réussie à la base database={database}, host={host} sous l'identité user={login}, passwd={pwd}")
-    finally:
-        # on ferme la connexion si elle a été ouverte
-        if connexion:
-            connexion.close()
-            print("Déconnexion réussie\n")
-        
+   
+    return connexion   
     # ---------------------------------------------------------------------------------
 def charger_transac(connexion: MySQLConnection,date_list_insert: list,with_transaction: bool = True):
     # si with_transaction=True alors toute erreur annule l'ensemble des ordres SQL(insertion dans ce cas) exécutés auparavant
