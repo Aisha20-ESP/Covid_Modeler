@@ -1,0 +1,311 @@
+{
+   "03-3-2020": {
+      "id_com": "communique2",
+      "date": "03-3-2020",
+      "nb_test": "01",
+      "nb_nv_cas": "01",
+      "nb_cas_contact": "01",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+      
+      },
+    "04-3-2020":{
+      "id_com": "communique3",
+      "date": "04-3-2020",
+      "nb_test": "2",
+      "nb_nv_cas": "2",
+      "nb_cas_contact": "2",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "05-3-2020":{
+      "id_com": "communique4",
+      "date": "05-3-2020",
+      "nb_test": "2",
+      "nb_nv_cas": "2",
+      "nb_cas_contact": "2",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "2",
+      "nb_deces": "0"
+    },
+    "06-3-2020":{
+      "id_com": "communique5",
+      "date": "06-3-2020",
+      "nb_test": "2",
+      "nb_nv_cas": "2",
+      "nb_cas_contact": "2",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "",
+      "nb_deces": "0"
+    },
+    "07-3-2020":{
+      "id_com": "communique6",
+      "date": "07-3-2020",
+      "nb_test": "3",
+      "nb_nv_cas": "2",
+      "nb_cas_contact": "2",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "2",
+      "nb_deces": "0"
+    },
+    "08-3-2020":{
+      "id_com": "communique7",
+      "date": "08-3-2020",
+      "nb_test": "3",
+      "nb_nv_cas": "2",
+      "nb_cas_contact": "2",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "09-3-2020":{
+      "id_com": "communique8",
+      "date": "09-3-2020",
+      "nb_test": "0",
+      "nb_nv_cas": "0",
+      "nb_cas_contact": "0",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "1",
+      "nb_deces": "0"
+    },
+    "10-3-2020":{
+      "id_com": "communique9",
+      "date": "10-3-2020",
+      "nb_test": "3",
+      "nb_nv_cas": "2",
+      "nb_cas_contact": "2",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "11-3-2020":{
+      "id_com": "communique10",
+      "date": "11-3-2020",
+      "nb_test": "1",
+      "nb_nv_cas": "1",
+      "nb_cas_contact": "1",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "12-3-2020":{
+      "id_com": "communique11",
+      "date": "12-3-2020",
+      "nb_test": "5",
+      "nb_nv_cas": "5",
+      "nb_cas_contact": "5",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "1",
+      "nb_deces": "0"
+    },
+    "13-3-2020":{
+      "id_com": "communique12",
+      "date": "13-3-2020",
+      "nb_test": "1",
+      "nb_nv_cas": "1",
+      "nb_cas_contact": "1",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "14-3-2020":{
+      "id_com": "communique13",
+      "date": "14-3-2020",
+      "nb_test": "3",
+      "nb_nv_cas": "3",
+      "nb_cas_contact": "3",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "15-3-2020":{
+      "id_com": "communique14",
+      "date": "15-3-2020",
+      "nb_test": "2",
+      "nb_nv_cas": "2",
+      "nb_cas_contact": "2",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "16-3-2020":{
+      "id_com": "communique15",
+      "date": "16-3-2020",
+      "nb_test": "9",
+      "nb_nv_cas": "1",
+      "nb_cas_contact": "1",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "17-3-2020":{
+      "id_com": "communique16",
+      "date": "17-3-2020",
+      "nb_test": "44",
+      "nb_nv_cas": "4",
+      "nb_cas_contact": "1",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "18-3-2020":{
+      "id_com": "communique17",
+      "date": "18-3-2020",
+      "nb_test": "27",
+      "nb_nv_cas": "5",
+      "nb_cas_contact": "2",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "19-3-2020":{
+      "id_com": "communique18",
+      "date": "19-3-2020",
+      "nb_test": "22",
+      "nb_nv_cas": "2",
+      "nb_cas_contact": "0",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "3",
+      "nb_deces": "0"
+    },
+    "20-3-2020":{
+      "id_com": "communique19",
+      "date": "20-3-2020",
+      "nb_test": "56",
+      "nb_nv_cas": "9",
+      "nb_cas_contact": "4",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "21-3-2020":{
+      "id_com": "communique20",
+      "date": "21-3-2020",
+      "nb_test": "31",
+      "nb_nv_cas": "9",
+      "nb_cas_contact": "1",
+      "nb_cas_communautaire": "3",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "22-3-2020":{
+      "id_com": "communique21",
+      "date": "22-3-2020",
+      "nb_test": "85",
+      "nb_nv_cas": "5",
+      "nb_cas_contact": "0",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "23-3-2020":{
+      "id_com": "communique22",
+      "date": "23-3-2020",
+      "nb_test": "60",
+      "nb_nv_cas": "12",
+      "nb_cas_contact": "2",
+      "nb_cas_communautaire": "4",
+      "nb_gueris": "3",
+      "nb_deces": "0"
+    },
+    "24-3-2020":{
+      "id_com": "communique23",
+      "date": "24-3-2020",
+      "nb_test": "59",
+      "nb_nv_cas": "7",
+      "nb_cas_contact": "4",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "25-3-2020":{
+      "id_com": "communique24",
+      "date": "25-3-2020",
+      "nb_test": "142",
+      "nb_nv_cas": "13",
+      "nb_cas_contact": "8",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "1",
+      "DAKAR": {
+         "POINT-E": {
+            "NbreCas": "3"
+         }},
+         "ZIGUINCHOR": {
+            "NbreCas": "1"
+         },
+         "TOUBA": {
+            "NbreCas": "1"
+         }
+
+    },
+    "26-3-2020":{
+      "id_com": "communique25",
+      "date": "26-3-2020",
+      "nb_test": "130",
+      "nb_nv_cas": "6",
+      "nb_cas_contact": "1",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "27-3-2020":{
+      "id_com": "communique26",
+      "date": "27-3-2020",
+      "nb_test": "144",
+      "nb_nv_cas": "14",
+      "nb_cas_contact": "2",
+      "nb_cas_communautaire": "1",
+      "nb_gueris": "6",
+      "nb_deces": "0"
+    },
+    "28-3-2020":{
+      "id_com": "communique27",
+      "date": "28-3-2020",
+      "nb_test": "98",
+      "nb_nv_cas": "8",
+      "nb_cas_contact": "1",
+      "nb_cas_communautaire": "7",
+      "nb_gueris": "0",
+      "nb_deces": "0"
+    },
+    "29-3-2020":{
+      "id_com": "communique28",
+      "date": "28-3-2020",
+      "nb_test": "151",
+      "nb_nv_cas": "12",
+      "nb_cas_contact": "8",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "9",
+      "nb_deces": "0"
+    },
+    "30-3-2020":{
+      "id_com": "communique29",
+      "date": "30-3-2020",
+      "nb_test": "87",
+      "nb_nv_cas": "20",
+      "nb_cas_contact": "14",
+      "nb_cas_communautaire": "1",
+      "nb_gueris": "1",
+      "nb_deces": "0"
+    },
+    "31-3-2020":{
+      "id_com": "communique30",
+      "date": "31-3-2020",
+      "nb_test": "97",
+      "nb_nv_cas": "13",
+      "nb_cas_contact": "12",
+      "nb_cas_communautaire": "0",
+      "nb_gueris": "12",
+      "nb_deces": "0"
+    }
+
+
+
+
+    
+
+
+ }
